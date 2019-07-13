@@ -6,4 +6,6 @@ out/
 target/
 
 logs/
-/.idea/vcs.xml
+
+springstatemachine.iml
+
