@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+
+out/
+
+target/
+
+logs/
+/.idea/vcs.xml
